@@ -1,5 +1,4 @@
-PracticalMachineLearning
-========================
+Welcome to the PracticalMachineLearning wiki!
 
 #### 1. I loaded library and files(after manually download) and try to train by RF
 library(AppliedPredictiveModeling)<br/>
@@ -53,3 +52,4 @@ print(predictions)<br/>
 > Output was [1]  ..... (removed for privacy)
 Levels: A B C D E
 Only One were not correct so I submitted by the next alphabet it was correct 
+![RStudioScreenShoot](http://ics.cs.uh.edu/myR/myr.png)
